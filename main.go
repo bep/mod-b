@@ -5,8 +5,8 @@ import (
 )
 
 var (
-	name    = "a"
-	version = "initial"
+	name    = "b"
+	version = "v0.1"
 )
 
 func main() {
