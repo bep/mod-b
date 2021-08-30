@@ -1,2 +1,2 @@
 # mod-b
-Test Go Module
+Test Go Module.
