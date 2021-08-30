@@ -1,2 +1,2 @@
-# mod-a
+# mod-b
 Test Go Module
