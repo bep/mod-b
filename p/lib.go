@@ -1,6 +1,11 @@
 package p
 
-var (
+import (
+	"fmt"
+	"runtime/debug"
+	"strings"
+)
+
 func Version() string {
 	bi, ok := debug.ReadBuildInfo()
 	if ok {
